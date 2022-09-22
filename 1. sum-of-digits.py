@@ -1,4 +1,3 @@
-
 # sum of digits using iteration 
 def sum_using_iteration(n:int): 
     stringed = str(n)
@@ -9,7 +8,7 @@ print(sum_using_iteration(12))
     
 
 
-#--------------------------------SUM OF DIGITS------------------------------#
+#-------------------------------- SUM OF DIGITS ------------------------------#
 
 # How to find the sum of digits of a positive integer number using recursion?
 #f(n) = n%10 + f(n/10)
